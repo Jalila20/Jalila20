@@ -15,7 +15,6 @@
 - 🤖 Passionate about **Artificial Intelligence (AI)** and working towards becoming a Principal AI Engineer.
 - 🧠 Strong **Problem Solving** skills with a deep interest in algorithms and analytical thinking.
 - ☁️ Holds the **AWS Cloud Essentials** badge and actively building cloud computing skills.
-- 💻 Experienced in Data Science, System Design, Operating Systems, and Computer Architecture.
 
 ---
 
